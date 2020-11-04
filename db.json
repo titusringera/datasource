@@ -1,32 +1,84 @@
 {
-  "posts": [
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "sunt aut facere "
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "qui est esse"
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut"
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "eum et est occaecati"
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "nesciunt quas odio"
-  }
- 
+  crocodiles:[
+    {"id":1,
+    "scanid":"21",
+    "penId":"A1",
+    "year":"2017",
+    "userId":"2",
+    "gender":"female",
+    "hireDate":"2020-10-30T20:17:40.024Z",
+    "disease":true,
+    "user":"Ringera"
+},
+{
+    "id":2,
+    "scanid":"22",
+    "penId":"A1",
+    "year":"2017",
+    "userId":"2",
+    "gender":"male",
+    "hireDate":"2020-10-30T20:17:40.024Z",
+    "disease":true,
+    "user":"Ringera"
+},
+{
+    "id":3,
+    "scanid":"23",
+    "penId":"A1",
+    "year":"2017",
+    "userId":"2",
+    "gender":"female",
+    "hireDate":"2020-10-30T20:17:40.024Z",
+    "disease":true,
+    "user":"Ringera"},
+{
+    "id":4,
+    "scanid":"24",
+    "penId":"A1",
+    "year":"2017",
+    "userId":"2",
+    "gender":"female",
+    "hireDate":"2020-10-30T20:17:40.024Z",
+    "disease":true,
+    "user":"Ringera"
+},
+{
+    "id":5,
+    "scanid":"25",
+    "penId":"A1",
+    "year":"2016",
+    "userId":"3",
+    "gender":"male",
+    "hireDate":"2020-10-30T20:23:25.897Z",
+    "disease":true,
+    "user":"Titus"
+},
+{
+    "id":6,
+    "scanid":"26",
+    "penId":"A1",
+    "year":"2016",
+    "userId":"3",
+    "gender":"other",
+    "hireDate":"2020-10-30T20:23:25.897Z",
+    "disease":true,
+    "user":"Titus"
+},
+{
+    "id":7,"scanid":"27",
+    "penId":"A1",
+    "year":"2018",
+    "userId":"3",
+    "gender":"female",
+    "hireDate":"2020-10-30T20:23:25.897Z",
+    "disease":true
+}
 
+],
+  users:  [
+    { id: "1", title: "Charles" },
+    { id: "2", title: "Ringera" },
+    { id: "3", title: "Titus" }
 ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
