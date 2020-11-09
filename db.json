@@ -1,7 +1,7 @@
 {
   "crocodiles":[
     {"id":1,
-    "scanid":"21",
+    "scanid":"CRO0000021",
     "penId":"A1",
     "year":"2017",
     "userId":"2",
@@ -9,13 +9,12 @@
      "weight":"23",
     "length":"50",
      "bellWidth":"20",
-    "hireDate":"2020-10-30T20:17:40.024Z",
-    "disease":true,
+     "disease":true,
     "user":"Ringera"
 },
 {
     "id":2,
-    "scanid":"22",
+    "scanid":"CRO0000022",
     "penId":"A1",
     "year":"2017",
     "userId":"2",
@@ -23,13 +22,12 @@
    "weight":"27",
     "length":"55",
      "bellWidth":"29",
-    "hireDate":"2020-10-30T20:17:40.024Z",
     "disease":true,
     "user":"Ringera"
 },
 {
     "id":3,
-    "scanid":"23",
+    "scanid":"CRO0000023",
     "penId":"A1",
     "year":"2017",
     "userId":"2",
@@ -37,12 +35,11 @@
    "weight":"20",
     "length":"49",
      "bellWidth":"20",
-    "hireDate":"2020-10-30T20:17:40.024Z",
     "disease":true,
     "user":"Ringera"},
 {
     "id":4,
-    "scanid":"24",
+    "scanid":"CRO0000024",
     "penId":"A1",
     "year":"2017",
     "userId":"2",
@@ -50,13 +47,12 @@
    "weight":"23",
     "length":"52",
      "bellWidth":"40",
-    "hireDate":"2020-10-30T20:17:40.024Z",
     "disease":true,
     "user":"Ringera"
 },
 {
     "id":5,
-    "scanid":"25",
+    "scanid":"CRO0000025",
     "penId":"A1",
     "year":"2016",
     "userId":"3",
@@ -64,13 +60,12 @@
    "weight":"19",
     "length":"42",
      "bellWidth":"16",
-    "hireDate":"2020-10-30T20:23:25.897Z",
     "disease":true,
     "user":"Titus"
 },
 {
     "id":6,
-    "scanid":"26",
+    "scanid":"CRO0000026",
     "penId":"A1",
     "year":"2016",
     "userId":"3",
@@ -78,12 +73,11 @@
    "weight":"23",
     "length":"49",
      "bellWidth":"22",
-    "hireDate":"2020-10-30T20:23:25.897Z",
     "disease":true,
     "user":"Titus"
 },
 {
-    "id":7,"scanid":"27",
+    "id":7,"scanid":"CRO0000027",
     "penId":"A1",
     "year":"2018",
     "userId":"3",
